@@ -1,0 +1,10 @@
+[
+{
+    "model": "plataforma.plataforma",
+    "pk": 1,
+    "fields": {
+        "nombre": "PS5",
+        "precio": 600
+    }
+}
+]
